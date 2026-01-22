@@ -1,13 +1,12 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Background : MonoBehaviour
 {
     public float scrollSpeed = 0.01f;
 
     private Material material;
-
-    private float offset;
-
+    private float offsetY;
+    
     private void Awake()
     {
         material = GetComponent<MeshRenderer>().material;
@@ -15,9 +14,8 @@ public class Background : MonoBehaviour
 
     private void Update()
     {
-        offset += scrollSpeed * Time.deltaTime;
-        offset %= 1f;
+        offsetY = (offsetY + Time.deltaTime * scrollSpeed) % 1;
 
-        material.mainTextureOffset = new Vector2(0, offset);
+        material.mainTextureOffset = new Vector2(0, offsetY);
     }
 }
