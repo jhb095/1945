@@ -39,8 +39,12 @@ public class ObjectPool : Singleton<ObjectPool>
         {
             foreach(GameObject obj in poolDict[key])
             {
-                if(!obj.activeInHierarchy)
+                if (!obj.activeInHierarchy)
+                {
+                    obj.transform.SetParent(null);
+                    obj.transform.localPosition = Vector2.zero;
                     return obj;
+                }
             }
 
             // 부족한 경우 생성

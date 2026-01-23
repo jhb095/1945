@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 8af76387a646b8b4b89013ed2bb64f6f
+guid: 69fb39b1166a6604a9705efe6f4a7876
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3740626451653842279
-    second: Bullet_Eg_a_0
+      213: -8748255612503774959
+    second: MidAirPlan_0
+  - first:
+      213: 1905298522491951623
+    second: MidAirPlan_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +54,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 48
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -139,23 +142,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bullet_Eg_a_0
+      name: MidAirPlan_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 11
-        width: 8
-        height: 26
+        x: 0
+        y: 0
+        width: 310
+        height: 335
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 765d14860ff59e330800000000000000
-      internalID: 3740626451653842279
+      spriteID: 1192564eed3f79680800000000000000
+      internalID: -8748255612503774959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidAirPlan_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 310
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a953859eaf07a10800000000000000
+      internalID: 1905298522491951623
       vertices: []
       indices: 
       edges: []
@@ -164,7 +189,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6ae267f5a9be3194dbd793034239570e
     internalID: 0
     vertices: []
     indices: 
@@ -172,9 +197,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":1.0},"gridSpriteSize":{"x":310.0,"y":335.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Bullet_Eg_a_0: 3740626451653842279
+      MidAirPlan_0: -8748255612503774959
+      MidAirPlan_1: 1905298522491951623
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -5,8 +5,11 @@ public class Player : MonoBehaviour
 {
     public float moveSpeed = 3f;
     public float fireRate = 5f;
+    public int power = 0;
+    public GameObject bomb;
 
     [SerializeField] private Transform launcherPos;
+    [SerializeField] private GameObject powerUp;
 
     Animator animator;
 
@@ -69,6 +72,12 @@ public class Player : MonoBehaviour
             isFire = false;
     }
 
+    public void OnBoom(InputAction.CallbackContext context)
+    {
+        if(context.performed)
+            Instantiate(bomb, Vector2.zero, Quaternion.identity);
+    }
+
     private void Shoot()
     {
         fireCooldown -= Time.deltaTime;
@@ -77,7 +86,7 @@ public class Player : MonoBehaviour
         {
             if (fireCooldown <= 0f)
             {
-                GameObject bullet = ObjectPool.Instance.GetObject("PlayerBullet");
+                GameObject bullet = ObjectPool.Instance.GetObject($"PlayerBullet{(power == 0 ? "" : power)}");
                 bullet.transform.position = launcherPos.position;
                 bullet.SetActive(true);
 
@@ -101,5 +110,19 @@ public class Player : MonoBehaviour
 
         // 위치 갱신
         transform.position = new Vector2(clampedX, clampedY);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.CompareTag("Item"))
+        {
+            collision.gameObject.SetActive(false);
+
+            if (power >= 3) return;
+
+            Instantiate(powerUp, Vector2.zero, Quaternion.identity);
+
+            power++;
+        }
     }
 }

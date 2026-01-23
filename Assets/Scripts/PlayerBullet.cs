@@ -3,6 +3,7 @@
 public class PlayerBullet : MonoBehaviour
 {
     public float speed = 4.0f;
+    public int damage = 10;
 
     private void Update()
     {
@@ -16,13 +17,15 @@ public class PlayerBullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("Monster"))
+        if(collision.CompareTag("Enemy"))
         {
-            collision.GetComponent<Monster>().HP -= 20;
+            // 이펙트
+            GameObject effect = ObjectPool.Instance.GetObject("BulletEffect");
+            effect.transform.SetParent(collision.gameObject.transform);
+            effect.transform.position = collision.ClosestPoint(transform.position);
+            effect.SetActive(true);
 
-            // 몬스터 사망시 비활성화
-            if (collision.GetComponent<Monster>().HP <= 0)
-                collision.gameObject.SetActive(false);
+            collision.GetComponent<Monster>().HP -= damage;
 
             // 미사일 비활성화
             gameObject.SetActive(false);

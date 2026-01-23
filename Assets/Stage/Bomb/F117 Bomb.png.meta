@@ -1,0 +1,2218 @@
+fileFormatVersion: 2
+guid: a1e5890670b390a458bcc9d066f0d597
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5064789718488249163
+    second: F117 Bomb_0
+  - first:
+      213: -7769402180130353311
+    second: F117 Bomb_1
+  - first:
+      213: 8237398241981004626
+    second: F117 Bomb_2
+  - first:
+      213: 9090432048077989808
+    second: F117 Bomb_3
+  - first:
+      213: -2724725497400248115
+    second: F117 Bomb_4
+  - first:
+      213: 7905759381546753881
+    second: F117 Bomb_5
+  - first:
+      213: -2153237812155607098
+    second: F117 Bomb_6
+  - first:
+      213: 8650910396198164406
+    second: F117 Bomb_7
+  - first:
+      213: -8060566846309053657
+    second: F117 Bomb_8
+  - first:
+      213: 1692953154014444609
+    second: F117 Bomb_9
+  - first:
+      213: 3581951184302636716
+    second: F117 Bomb_10
+  - first:
+      213: -573958434476793138
+    second: F117 Bomb_11
+  - first:
+      213: 5284100237940319536
+    second: F117 Bomb_12
+  - first:
+      213: -3409452626354131526
+    second: F117 Bomb_13
+  - first:
+      213: -5901363293947864688
+    second: F117 Bomb_14
+  - first:
+      213: -1233183170899025017
+    second: F117 Bomb_15
+  - first:
+      213: -8275298467277565575
+    second: F117 Bomb_16
+  - first:
+      213: -37250345972605734
+    second: F117 Bomb_17
+  - first:
+      213: 8482488723314201059
+    second: F117 Bomb_18
+  - first:
+      213: -340542734311715446
+    second: F117 Bomb_19
+  - first:
+      213: 8225541624056621166
+    second: F117 Bomb_20
+  - first:
+      213: -3479187768850602434
+    second: F117 Bomb_21
+  - first:
+      213: 2330802639596384514
+    second: F117 Bomb_22
+  - first:
+      213: 8235257091830629905
+    second: F117 Bomb_23
+  - first:
+      213: 2278454938207156983
+    second: F117 Bomb_24
+  - first:
+      213: 6690269049883921347
+    second: F117 Bomb_25
+  - first:
+      213: 1137926559403768710
+    second: F117 Bomb_26
+  - first:
+      213: -4214705022696114404
+    second: F117 Bomb_27
+  - first:
+      213: 4538420045889912817
+    second: F117 Bomb_28
+  - first:
+      213: -7452004007499920017
+    second: F117 Bomb_29
+  - first:
+      213: -516520219570042935
+    second: F117 Bomb_30
+  - first:
+      213: -7725946690652519109
+    second: F117 Bomb_31
+  - first:
+      213: 98586933593056057
+    second: F117 Bomb_32
+  - first:
+      213: 3799983204985209041
+    second: F117 Bomb_33
+  - first:
+      213: -4676137918288439102
+    second: F117 Bomb_34
+  - first:
+      213: -9150299513805197588
+    second: F117 Bomb_35
+  - first:
+      213: -7251531596749194835
+    second: F117 Bomb_36
+  - first:
+      213: 5251842659626415564
+    second: F117 Bomb_37
+  - first:
+      213: -8191651776259592820
+    second: F117 Bomb_38
+  - first:
+      213: -5912987738332264903
+    second: F117 Bomb_39
+  - first:
+      213: 2267728405391982665
+    second: F117 Bomb_40
+  - first:
+      213: 6087304086634369862
+    second: F117 Bomb_41
+  - first:
+      213: 320583269538769058
+    second: F117 Bomb_42
+  - first:
+      213: -8348661250922379561
+    second: F117 Bomb_43
+  - first:
+      213: -4026632069560338105
+    second: F117 Bomb_44
+  - first:
+      213: -2480148581609236722
+    second: F117 Bomb_45
+  - first:
+      213: 1006167383668646047
+    second: F117 Bomb_46
+  - first:
+      213: 2573531784103393986
+    second: F117 Bomb_47
+  - first:
+      213: -1772681045359732390
+    second: F117 Bomb_48
+  - first:
+      213: -367374246990613381
+    second: F117 Bomb_49
+  - first:
+      213: 551175277141247386
+    second: F117 Bomb_50
+  - first:
+      213: 323204420832511107
+    second: F117 Bomb_51
+  - first:
+      213: 2488598753618468036
+    second: F117 Bomb_52
+  - first:
+      213: 1957746998568671566
+    second: F117 Bomb_53
+  - first:
+      213: -5526987115856904738
+    second: F117 Bomb_54
+  - first:
+      213: -3161514770247408614
+    second: F117 Bomb_55
+  - first:
+      213: 7095314313902305365
+    second: F117 Bomb_56
+  - first:
+      213: -1271979645011562143
+    second: F117 Bomb_57
+  - first:
+      213: 6628273148964084159
+    second: F117 Bomb_58
+  - first:
+      213: -2609547766640140364
+    second: F117 Bomb_59
+  - first:
+      213: -3040270155609889529
+    second: F117 Bomb_60
+  - first:
+      213: 4859796895255069751
+    second: F117 Bomb_61
+  - first:
+      213: 1104082445945954985
+    second: F117 Bomb_62
+  - first:
+      213: 73028497749690623
+    second: F117 Bomb_63
+  - first:
+      213: -3988369894325927212
+    second: F117 Bomb_64
+  - first:
+      213: -7701006758758107111
+    second: F117 Bomb_65
+  - first:
+      213: -3468820817872526106
+    second: F117 Bomb_66
+  - first:
+      213: 4383362153684542589
+    second: F117 Bomb_67
+  - first:
+      213: -13326382526504535
+    second: F117 Bomb_68
+  - first:
+      213: 1006396316103440862
+    second: F117 Bomb_69
+  - first:
+      213: -3718503225945173208
+    second: F117 Bomb_70
+  - first:
+      213: -2114483633315238586
+    second: F117 Bomb_71
+  - first:
+      213: -5290266915491730601
+    second: F117 Bomb_72
+  - first:
+      213: -7303541839799398432
+    second: F117 Bomb_73
+  - first:
+      213: -8926287044753710187
+    second: F117 Bomb_74
+  - first:
+      213: 6730871481573814284
+    second: F117 Bomb_75
+  - first:
+      213: -6100193016230305863
+    second: F117 Bomb_76
+  - first:
+      213: -3966461839622722723
+    second: F117 Bomb_77
+  - first:
+      213: 4456233516047836884
+    second: F117 Bomb_78
+  - first:
+      213: 2537292795804989319
+    second: F117 Bomb_79
+  - first:
+      213: 3852180358209032466
+    second: F117 Bomb_80
+  - first:
+      213: -5943974020365140293
+    second: F117 Bomb_81
+  - first:
+      213: 5190591627566532468
+    second: F117 Bomb_82
+  - first:
+      213: 1988728869199919000
+    second: F117 Bomb_83
+  - first:
+      213: -9111793718551550966
+    second: F117 Bomb_84
+  - first:
+      213: 5802155807027877168
+    second: F117 Bomb_85
+  - first:
+      213: 6754988510838335257
+    second: F117 Bomb_86
+  - first:
+      213: 9190450763928967422
+    second: F117 Bomb_87
+  - first:
+      213: 4270499111075538192
+    second: F117 Bomb_88
+  - first:
+      213: -5335646675678724579
+    second: F117 Bomb_89
+  - first:
+      213: -5084600352130354678
+    second: F117 Bomb_90
+  - first:
+      213: -991108802455246726
+    second: F117 Bomb_91
+  - first:
+      213: 949538730371186615
+    second: F117 Bomb_92
+  - first:
+      213: 3402368519548156361
+    second: F117 Bomb_93
+  - first:
+      213: -199552932882896415
+    second: F117 Bomb_94
+  - first:
+      213: 5019480388325014248
+    second: F117 Bomb_95
+  - first:
+      213: -4250572066357007106
+    second: F117 Bomb_96
+  - first:
+      213: -3967864360508706770
+    second: F117 Bomb_97
+  - first:
+      213: -2745977267064953563
+    second: F117 Bomb_98
+  - first:
+      213: 1459199025125405587
+    second: F117 Bomb_99
+  - first:
+      213: 5146136927294852866
+    second: F117 Bomb_100
+  - first:
+      213: -1971343345214676137
+    second: F117 Bomb_101
+  - first:
+      213: -6135715326711856123
+    second: F117 Bomb_102
+  - first:
+      213: -8195555105999678634
+    second: F117 Bomb_103
+  - first:
+      213: 4832392376754616793
+    second: F117 Bomb_104
+  - first:
+      213: 1329141180796031103
+    second: F117 Bomb_105
+  - first:
+      213: 8639251546841952300
+    second: F117 Bomb_106
+  - first:
+      213: -5110194740956407645
+    second: F117 Bomb_107
+  - first:
+      213: -5881715760072502177
+    second: F117 Bomb_108
+  - first:
+      213: 2537170984277903704
+    second: F117 Bomb_109
+  - first:
+      213: -6681604805617703340
+    second: F117 Bomb_110
+  - first:
+      213: -475013104600920254
+    second: F117 Bomb_111
+  - first:
+      213: 5264511408316747091
+    second: F117 Bomb_112
+  - first:
+      213: -6391952536457746009
+    second: F117 Bomb_113
+  - first:
+      213: 4235943118902020095
+    second: F117 Bomb_114
+  - first:
+      213: 3500831926184872615
+    second: F117 Bomb_115
+  - first:
+      213: -5063761042582791080
+    second: F117 Bomb_116
+  - first:
+      213: 1021642563709274898
+    second: F117 Bomb_117
+  - first:
+      213: 5599493065298437492
+    second: F117 Bomb_118
+  - first:
+      213: -6970229719118166161
+    second: F117 Bomb_119
+  - first:
+      213: 1025189899819629709
+    second: F117 Bomb_120
+  - first:
+      213: 7193893213468642224
+    second: F117 Bomb_121
+  - first:
+      213: 6399507289673337957
+    second: F117 Bomb_122
+  - first:
+      213: -5877742787277699890
+    second: F117 Bomb_123
+  - first:
+      213: -3710751241471670020
+    second: F117 Bomb_124
+  - first:
+      213: -2981209559580195423
+    second: F117 Bomb_125
+  - first:
+      213: -7510059287563748512
+    second: F117 Bomb_126
+  - first:
+      213: -5804726691484700659
+    second: F117 Bomb_127
+  - first:
+      213: -2580853946443075218
+    second: F117 Bomb_128
+  - first:
+      213: -6022050728037277215
+    second: F117 Bomb_129
+  - first:
+      213: 5151956292532948200
+    second: F117 Bomb_130
+  - first:
+      213: -3626453544636757340
+    second: F117 Bomb_131
+  - first:
+      213: -7237279567081531020
+    second: F117 Bomb_132
+  - first:
+      213: -2822565454445793188
+    second: F117 Bomb_133
+  - first:
+      213: 2305725373678735878
+    second: F117 Bomb_134
+  - first:
+      213: 4584239115525175603
+    second: F117 Bomb_135
+  - first:
+      213: -2633455055349219926
+    second: F117 Bomb_136
+  - first:
+      213: 7897095814216795918
+    second: F117 Bomb_137
+  - first:
+      213: -6726341656723813153
+    second: F117 Bomb_138
+  - first:
+      213: 6579199726508163302
+    second: F117 Bomb_139
+  - first:
+      213: -6670179174100816229
+    second: F117 Bomb_140
+  - first:
+      213: -1412210490015871528
+    second: F117 Bomb_141
+  - first:
+      213: -2696772689727488503
+    second: F117 Bomb_142
+  - first:
+      213: -8646833196854893400
+    second: F117 Bomb_143
+  - first:
+      213: -1488881389590268092
+    second: F117 Bomb_144
+  - first:
+      213: 5172435693940159112
+    second: F117 Bomb_145
+  - first:
+      213: -7082853035656867941
+    second: F117 Bomb_146
+  - first:
+      213: -1868556737417498806
+    second: F117 Bomb_147
+  - first:
+      213: 7352811317057878954
+    second: F117 Bomb_148
+  - first:
+      213: 6570330219417768261
+    second: F117 Bomb_149
+  - first:
+      213: 9029133098796985662
+    second: F117 Bomb_150
+  - first:
+      213: -2252505975638163961
+    second: F117 Bomb_151
+  - first:
+      213: -48793425837320037
+    second: F117 Bomb_152
+  - first:
+      213: 3749232590740380248
+    second: F117 Bomb_153
+  - first:
+      213: -3482596308163023325
+    second: F117 Bomb_154
+  - first:
+      213: 269027333431801712
+    second: F117 Bomb_155
+  - first:
+      213: -2973635308374478608
+    second: F117 Bomb_156
+  - first:
+      213: 6839517378208056602
+    second: F117 Bomb_157
+  - first:
+      213: -2583546877139535210
+    second: F117 Bomb_158
+  - first:
+      213: 3168142489398774369
+    second: F117 Bomb_159
+  - first:
+      213: -2909770452163258928
+    second: F117 Bomb_160
+  - first:
+      213: -4263249521054074798
+    second: F117 Bomb_161
+  - first:
+      213: 2908483685165358650
+    second: F117 Bomb_162
+  - first:
+      213: -8847125203970510254
+    second: F117 Bomb_163
+  - first:
+      213: 5896824758496602118
+    second: F117 Bomb_164
+  - first:
+      213: 5582155024645840016
+    second: F117 Bomb_165
+  - first:
+      213: 3321735817163577607
+    second: F117 Bomb_166
+  - first:
+      213: -749733147668130531
+    second: F117 Bomb_167
+  - first:
+      213: -1699007028991123858
+    second: F117 Bomb_168
+  - first:
+      213: 8726471364460063198
+    second: F117 Bomb_169
+  - first:
+      213: 6709772703549971999
+    second: F117 Bomb_170
+  - first:
+      213: 3244793144287031398
+    second: F117 Bomb_171
+  - first:
+      213: 8667672477919600018
+    second: F117 Bomb_172
+  - first:
+      213: 6905208475370036326
+    second: F117 Bomb_173
+  - first:
+      213: -2106315442471609711
+    second: F117 Bomb_174
+  - first:
+      213: -3313509313409474770
+    second: F117 Bomb_175
+  - first:
+      213: -1068141080703746485
+    second: F117 Bomb_176
+  - first:
+      213: 8000928926775345724
+    second: F117 Bomb_177
+  - first:
+      213: -1857372824447274697
+    second: F117 Bomb_178
+  - first:
+      213: 345608990095414988
+    second: F117 Bomb_179
+  - first:
+      213: -6881313895300495701
+    second: F117 Bomb_180
+  - first:
+      213: -2772518352054318674
+    second: F117 Bomb_181
+  - first:
+      213: -4403696868926350833
+    second: F117 Bomb_182
+  - first:
+      213: -5787930353162484676
+    second: F117 Bomb_183
+  - first:
+      213: 7672456262336737475
+    second: F117 Bomb_184
+  - first:
+      213: -3148153510158425725
+    second: F117 Bomb_185
+  - first:
+      213: 6174336225811924411
+    second: F117 Bomb_186
+  - first:
+      213: -1199809240276759071
+    second: F117 Bomb_187
+  - first:
+      213: -2144195128913990582
+    second: F117 Bomb_188
+  - first:
+      213: -5422280950716947034
+    second: F117 Bomb_189
+  - first:
+      213: 890408568162799058
+    second: F117 Bomb_190
+  - first:
+      213: -7632637823997233709
+    second: F117 Bomb_191
+  - first:
+      213: -3681187304196914390
+    second: F117 Bomb_192
+  - first:
+      213: -6705358870977520896
+    second: F117 Bomb_193
+  - first:
+      213: 591125949321767966
+    second: F117 Bomb_194
+  - first:
+      213: 7100552901059746915
+    second: F117 Bomb_195
+  - first:
+      213: -759122205741736035
+    second: F117 Bomb_196
+  - first:
+      213: -7529186166544487442
+    second: F117 Bomb_197
+  - first:
+      213: -5016380051818895583
+    second: F117 Bomb_198
+  - first:
+      213: 7601355269797483007
+    second: F117 Bomb_199
+  - first:
+      213: -7114209967938398336
+    second: F117 Bomb_200
+  - first:
+      213: 1823642432850162728
+    second: F117 Bomb_201
+  - first:
+      213: 2550909245621326593
+    second: F117 Bomb_202
+  - first:
+      213: 4903115914327087211
+    second: F117 Bomb_203
+  - first:
+      213: 7771483763164787548
+    second: F117 Bomb_204
+  - first:
+      213: -3600842627095020947
+    second: F117 Bomb_205
+  - first:
+      213: 7008614246143727838
+    second: F117 Bomb_206
+  - first:
+      213: 2547971014940768693
+    second: F117 Bomb_207
+  - first:
+      213: -9214213188531539684
+    second: F117 Bomb_208
+  - first:
+      213: 2189649043070993284
+    second: F117 Bomb_209
+  - first:
+      213: -767685065310186912
+    second: F117 Bomb_210
+  - first:
+      213: -5408184093796239352
+    second: F117 Bomb_211
+  - first:
+      213: 3732690486132792022
+    second: F117 Bomb_212
+  - first:
+      213: -4446224365337368526
+    second: F117 Bomb_213
+  - first:
+      213: 5183325159641471462
+    second: F117 Bomb_214
+  - first:
+      213: -7135414048587581045
+    second: F117 Bomb_215
+  - first:
+      213: 8830203237518293240
+    second: F117 Bomb_216
+  - first:
+      213: -8908100015096125214
+    second: F117 Bomb_217
+  - first:
+      213: -5653297052357789486
+    second: F117 Bomb_218
+  - first:
+      213: 2764484127678662347
+    second: F117 Bomb_219
+  - first:
+      213: -6611890914696452007
+    second: F117 Bomb_220
+  - first:
+      213: 9101777544220169457
+    second: F117 Bomb_221
+  - first:
+      213: -1839473917424708134
+    second: F117 Bomb_222
+  - first:
+      213: -3936379402443849167
+    second: F117 Bomb_223
+  - first:
+      213: -8289154114531570258
+    second: F117 Bomb_224
+  - first:
+      213: -4522574972289269346
+    second: F117 Bomb_225
+  - first:
+      213: 6177139152011341854
+    second: F117 Bomb_226
+  - first:
+      213: 5571686533935712922
+    second: F117 Bomb_227
+  - first:
+      213: -6954539012025713851
+    second: F117 Bomb_228
+  - first:
+      213: -2779128307682093831
+    second: F117 Bomb_229
+  - first:
+      213: 1496446711774437923
+    second: F117 Bomb_230
+  - first:
+      213: -4976910245395047549
+    second: F117 Bomb_231
+  - first:
+      213: 2205401071723591439
+    second: F117 Bomb_232
+  - first:
+      213: -5757369954785993958
+    second: F117 Bomb_233
+  - first:
+      213: -2906681409617572096
+    second: F117 Bomb_234
+  - first:
+      213: -3544668430983955629
+    second: F117 Bomb_235
+  - first:
+      213: -7995487082091301275
+    second: F117 Bomb_236
+  - first:
+      213: 1342394225971076829
+    second: F117 Bomb_237
+  - first:
+      213: -8185372199741966824
+    second: F117 Bomb_238
+  - first:
+      213: 2984043777402525683
+    second: F117 Bomb_239
+  - first:
+      213: 5170323271801104685
+    second: F117 Bomb_240
+  - first:
+      213: -6674374374362970626
+    second: F117 Bomb_241
+  - first:
+      213: 5576844978926989828
+    second: F117 Bomb_242
+  - first:
+      213: -2351104046108904185
+    second: F117 Bomb_243
+  - first:
+      213: -606841750111697256
+    second: F117 Bomb_244
+  - first:
+      213: 5528753709984497687
+    second: F117 Bomb_245
+  - first:
+      213: -4365898072672769272
+    second: F117 Bomb_246
+  - first:
+      213: 7412234817363428133
+    second: F117 Bomb_247
+  - first:
+      213: 445643300457895555
+    second: F117 Bomb_248
+  - first:
+      213: 375191562609370656
+    second: F117 Bomb_249
+  - first:
+      213: 6108203263163016333
+    second: F117 Bomb_250
+  - first:
+      213: 442555058889120275
+    second: F117 Bomb_251
+  - first:
+      213: 1931820498145455079
+    second: F117 Bomb_252
+  - first:
+      213: 7235548470961867289
+    second: F117 Bomb_253
+  - first:
+      213: 840128067094894186
+    second: F117 Bomb_254
+  - first:
+      213: -1377235648934810953
+    second: F117 Bomb_255
+  - first:
+      213: 4830893464825434650
+    second: F117 Bomb_256
+  - first:
+      213: -6686089406065699498
+    second: F117 Bomb_257
+  - first:
+      213: 2588356612411107132
+    second: F117 Bomb_258
+  - first:
+      213: -811484218601026588
+    second: F117 Bomb_259
+  - first:
+      213: 1612039705451530837
+    second: F117 Bomb_260
+  - first:
+      213: -8537078985478961260
+    second: F117 Bomb_261
+  - first:
+      213: -8049570970081720870
+    second: F117 Bomb_262
+  - first:
+      213: 7848674441444808341
+    second: F117 Bomb_263
+  - first:
+      213: 1033551813618427011
+    second: F117 Bomb_264
+  - first:
+      213: -269465941271274286
+    second: F117 Bomb_265
+  - first:
+      213: 4780039429754398566
+    second: F117 Bomb_266
+  - first:
+      213: -8540984012437187488
+    second: F117 Bomb_267
+  - first:
+      213: -3632349790484000967
+    second: F117 Bomb_268
+  - first:
+      213: 4948472389231084233
+    second: F117 Bomb_269
+  - first:
+      213: 5113497635239792009
+    second: F117 Bomb_270
+  - first:
+      213: 7587413818578879319
+    second: F117 Bomb_271
+  - first:
+      213: 2382893786905795243
+    second: F117 Bomb_272
+  - first:
+      213: -1793382993891564570
+    second: F117 Bomb_273
+  - first:
+      213: -3600340098992912935
+    second: F117 Bomb_274
+  - first:
+      213: -4410108151501362284
+    second: F117 Bomb_275
+  - first:
+      213: -4422153932749266677
+    second: F117 Bomb_276
+  - first:
+      213: 6933370532453922847
+    second: F117 Bomb_277
+  - first:
+      213: 7400726800597831475
+    second: F117 Bomb_278
+  - first:
+      213: -8650064924339509124
+    second: F117 Bomb_279
+  - first:
+      213: 8107311776329066018
+    second: F117 Bomb_280
+  - first:
+      213: -1019867909035721653
+    second: F117 Bomb_281
+  - first:
+      213: 6297890144263731211
+    second: F117 Bomb_282
+  - first:
+      213: -4385926406684848894
+    second: F117 Bomb_283
+  - first:
+      213: -6852954386221857531
+    second: F117 Bomb_284
+  - first:
+      213: 3031922291020701986
+    second: F117 Bomb_285
+  - first:
+      213: -1515344220326005684
+    second: F117 Bomb_286
+  - first:
+      213: -576862434156264669
+    second: F117 Bomb_287
+  - first:
+      213: 5229284898050465505
+    second: F117 Bomb_288
+  - first:
+      213: -8149191987208769752
+    second: F117 Bomb_289
+  - first:
+      213: 1839601260382304681
+    second: F117 Bomb_290
+  - first:
+      213: -5994019600329226429
+    second: F117 Bomb_291
+  - first:
+      213: 1460811671442416429
+    second: F117 Bomb_292
+  - first:
+      213: 7840686630609363933
+    second: F117 Bomb_293
+  - first:
+      213: 5659815531226072558
+    second: F117 Bomb_294
+  - first:
+      213: 4496675946344606025
+    second: F117 Bomb_295
+  - first:
+      213: 3854762600735557889
+    second: F117 Bomb_296
+  - first:
+      213: -1958984550379992181
+    second: F117 Bomb_297
+  - first:
+      213: -4848733190916633866
+    second: F117 Bomb_298
+  - first:
+      213: 6577688581100140142
+    second: F117 Bomb_299
+  - first:
+      213: -8523724470044302612
+    second: F117 Bomb_300
+  - first:
+      213: 8433910949165357648
+    second: F117 Bomb_301
+  - first:
+      213: -709667175508568695
+    second: F117 Bomb_302
+  - first:
+      213: 8311410062469667736
+    second: F117 Bomb_303
+  - first:
+      213: -7635149816066990046
+    second: F117 Bomb_304
+  - first:
+      213: 860886033349587830
+    second: F117 Bomb_305
+  - first:
+      213: 3889567117625819734
+    second: F117 Bomb_306
+  - first:
+      213: -2838191787285526186
+    second: F117 Bomb_307
+  - first:
+      213: -4892556961997834288
+    second: F117 Bomb_308
+  - first:
+      213: 3220142640614556231
+    second: F117 Bomb_309
+  - first:
+      213: 6165005319722766431
+    second: F117 Bomb_310
+  - first:
+      213: -40879992917547166
+    second: F117 Bomb_311
+  - first:
+      213: 89087167623057201
+    second: F117 Bomb_312
+  - first:
+      213: -5423253222144977853
+    second: F117 Bomb_313
+  - first:
+      213: 3748551657776897417
+    second: F117 Bomb_314
+  - first:
+      213: -4421019505383114781
+    second: F117 Bomb_315
+  - first:
+      213: 1865071007534578732
+    second: F117 Bomb_316
+  - first:
+      213: 803509970618235067
+    second: F117 Bomb_317
+  - first:
+      213: 6003426847731769962
+    second: F117 Bomb_318
+  - first:
+      213: 7676366559695374452
+    second: F117 Bomb_319
+  - first:
+      213: -949069821213063500
+    second: F117 Bomb_320
+  - first:
+      213: -3167124692691808000
+    second: F117 Bomb_321
+  - first:
+      213: -3338299780504442070
+    second: F117 Bomb_322
+  - first:
+      213: 9104851785567447756
+    second: F117 Bomb_323
+  - first:
+      213: 8016097313400258360
+    second: F117 Bomb_324
+  - first:
+      213: 4801700049413600272
+    second: F117 Bomb_325
+  - first:
+      213: -5171656140001444026
+    second: F117 Bomb_326
+  - first:
+      213: -4074858446121983197
+    second: F117 Bomb_327
+  - first:
+      213: 8672187081413500670
+    second: F117 Bomb_328
+  - first:
+      213: -9037175071986674627
+    second: F117 Bomb_329
+  - first:
+      213: -8311299267748286435
+    second: F117 Bomb_330
+  - first:
+      213: 114333250848390413
+    second: F117 Bomb_331
+  - first:
+      213: 2963095521333247630
+    second: F117 Bomb_332
+  - first:
+      213: -494370941517950524
+    second: F117 Bomb_333
+  - first:
+      213: 8040249190055990811
+    second: F117 Bomb_334
+  - first:
+      213: -1147235936066906767
+    second: F117 Bomb_335
+  - first:
+      213: 7449134440699998373
+    second: F117 Bomb_336
+  - first:
+      213: 5936544624375124838
+    second: F117 Bomb_337
+  - first:
+      213: 5019403313694290568
+    second: F117 Bomb_338
+  - first:
+      213: 7677543829953754490
+    second: F117 Bomb_339
+  - first:
+      213: -6285735978898036137
+    second: F117 Bomb_340
+  - first:
+      213: 4382430669423846780
+    second: F117 Bomb_341
+  - first:
+      213: -5754637510508396582
+    second: F117 Bomb_342
+  - first:
+      213: -6048014242499278353
+    second: F117 Bomb_343
+  - first:
+      213: -8684022509513036282
+    second: F117 Bomb_344
+  - first:
+      213: 9069853592520534174
+    second: F117 Bomb_345
+  - first:
+      213: -144363836635621511
+    second: F117 Bomb_346
+  - first:
+      213: -629796017340198131
+    second: F117 Bomb_347
+  - first:
+      213: -2817779245572201068
+    second: F117 Bomb_348
+  - first:
+      213: 2688296289552878634
+    second: F117 Bomb_349
+  - first:
+      213: -113266493255893123
+    second: F117 Bomb_350
+  - first:
+      213: 4336411628487859512
+    second: F117 Bomb_351
+  - first:
+      213: -1124573458635421274
+    second: F117 Bomb_352
+  - first:
+      213: 7000036842232618083
+    second: F117 Bomb_353
+  - first:
+      213: 3817073243445751773
+    second: F117 Bomb_354
+  - first:
+      213: -557020435199119724
+    second: F117 Bomb_355
+  - first:
+      213: -557282772326556100
+    second: F117 Bomb_356
+  - first:
+      213: -6505822185024454031
+    second: F117 Bomb_357
+  - first:
+      213: 4218478352011119953
+    second: F117 Bomb_358
+  - first:
+      213: -5039471434468360074
+    second: F117 Bomb_359
+  - first:
+      213: 5300029555314843493
+    second: F117 Bomb_360
+  - first:
+      213: -3237908990649994205
+    second: F117 Bomb_361
+  - first:
+      213: 8988686897511113574
+    second: F117 Bomb_362
+  - first:
+      213: 5688997933044432007
+    second: F117 Bomb_363
+  - first:
+      213: -7237547850534992032
+    second: F117 Bomb_364
+  - first:
+      213: 3695904264457638531
+    second: F117 Bomb_365
+  - first:
+      213: 8993493227134787223
+    second: F117 Bomb_366
+  - first:
+      213: -2472585258064186969
+    second: F117 Bomb_367
+  - first:
+      213: 301107838900739168
+    second: F117 Bomb_368
+  - first:
+      213: -3076765486775796982
+    second: F117 Bomb_369
+  - first:
+      213: 7363489086458349921
+    second: F117 Bomb_370
+  - first:
+      213: 33249782806464123
+    second: F117 Bomb_371
+  - first:
+      213: -2218208067561378442
+    second: F117 Bomb_372
+  - first:
+      213: -2849620519574760877
+    second: F117 Bomb_373
+  - first:
+      213: 5637584639150197161
+    second: F117 Bomb_374
+  - first:
+      213: 5898395797426456863
+    second: F117 Bomb_375
+  - first:
+      213: -7685044314707876713
+    second: F117 Bomb_376
+  - first:
+      213: -2149762554401958067
+    second: F117 Bomb_377
+  - first:
+      213: -5420344558243964609
+    second: F117 Bomb_378
+  - first:
+      213: -7349876653215930928
+    second: F117 Bomb_379
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: F117 Bomb_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1926
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43fa802a6fb94640800000000000000
+      internalID: 5064789718488249163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1926
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f4f2891e98d2490800000000000000
+      internalID: -7769402180130353311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1926
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b74b6be0e115270800000000000000
+      internalID: 8237398241981004626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1926
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7e388d8c3b72e70800000000000000
+      internalID: 9090432048077989808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_4
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1926
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc83209a894df2ad0800000000000000
+      internalID: -2724725497400248115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_5
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1926
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f5ec06546e6bd60800000000000000
+      internalID: 7905759381546753881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1605
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c796814e992e12e0800000000000000
+      internalID: -2153237812155607098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1605
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7102dbb253e0870800000000000000
+      internalID: 8650910396198164406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1605
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b4575f82d132090800000000000000
+      internalID: -8060566846309053657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1605
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c78668ce39e7710800000000000000
+      internalID: 1692953154014444609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_10
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1605
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caef527cf95a5b130800000000000000
+      internalID: 3581951184302636716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_11
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1605
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2eb2548d3e808f0800000000000000
+      internalID: -573958434476793138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1284
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0356df78b25e45940800000000000000
+      internalID: 5284100237940319536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1284
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abda3af76e03fa0d0800000000000000
+      internalID: -3409452626354131526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1284
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09955b5d9552a1ea0800000000000000
+      internalID: -5901363293947864688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1284
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783e293907ad2eee0800000000000000
+      internalID: -1233183170899025017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1284
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971169f63eb382d80800000000000000
+      internalID: -8275298467277565575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_17
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1284
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcda88f109ab7ff0800000000000000
+      internalID: -37250345972605734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1566c3d8ad7b570800000000000000
+      internalID: 8482488723314201059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 963
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d828aff26264bf0800000000000000
+      internalID: -340542734311715446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 963
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68a51bb68ef62270800000000000000
+      internalID: 8225541624056621166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 963
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36a6c2682177bfc0800000000000000
+      internalID: -3479187768850602434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 963
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017faec6aca85020800000000000000
+      internalID: 2330802639596384514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 963
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116c49851b2894270800000000000000
+      internalID: 8235257091830629905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa729cc1b2be9f10800000000000000
+      internalID: 2278454938207156983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 642
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb0f1a114c98dc50800000000000000
+      internalID: 6690269049883921347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 642
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b7eb14d2abacf00800000000000000
+      internalID: 1137926559403768710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_27
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 642
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17b421cc1c5285c0800000000000000
+      internalID: -4214705022696114404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_28
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 642
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffb7c47cf4bbfe30800000000000000
+      internalID: 4538420045889912817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_29
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 642
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d0e2c66d9259890800000000000000
+      internalID: -7452004007499920017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c78831d893f4d8f0800000000000000
+      internalID: -516520219570042935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 321
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b354d0e2b6ce7c490800000000000000
+      internalID: -7725946690652519109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 321
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9332f443b404e5100800000000000000
+      internalID: 98586933593056057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_33
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 321
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0089d77904cb430800000000000000
+      internalID: 3799983204985209041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_34
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 321
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8deaba6550b1fb0800000000000000
+      internalID: -4676137918288439102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_35
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 321
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee2633921b930180800000000000000
+      internalID: -9150299513805197588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da93e3ade626d5b90800000000000000
+      internalID: -7251531596749194835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5764fc21b42e840800000000000000
+      internalID: 5251842659626415564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d69585c18615e80800000000000000
+      internalID: -8191651776259592820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F117 Bomb_39
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9360777faf8d0fda0800000000000000
+      internalID: -5912987738332264903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dcda78cae24b2694db824ecc6f118507
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":7.0},"gridSpriteSize":{"x":224.0,"y":320.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":1.0,"y":1.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      F117 Bomb_0: 5064789718488249163
+      F117 Bomb_1: -7769402180130353311
+      F117 Bomb_10: 3581951184302636716
+      F117 Bomb_11: -573958434476793138
+      F117 Bomb_12: 5284100237940319536
+      F117 Bomb_13: -3409452626354131526
+      F117 Bomb_14: -5901363293947864688
+      F117 Bomb_15: -1233183170899025017
+      F117 Bomb_16: -8275298467277565575
+      F117 Bomb_17: -37250345972605734
+      F117 Bomb_18: 8482488723314201059
+      F117 Bomb_19: -340542734311715446
+      F117 Bomb_2: 8237398241981004626
+      F117 Bomb_20: 8225541624056621166
+      F117 Bomb_21: -3479187768850602434
+      F117 Bomb_22: 2330802639596384514
+      F117 Bomb_23: 8235257091830629905
+      F117 Bomb_24: 2278454938207156983
+      F117 Bomb_25: 6690269049883921347
+      F117 Bomb_26: 1137926559403768710
+      F117 Bomb_27: -4214705022696114404
+      F117 Bomb_28: 4538420045889912817
+      F117 Bomb_29: -7452004007499920017
+      F117 Bomb_3: 9090432048077989808
+      F117 Bomb_30: -516520219570042935
+      F117 Bomb_31: -7725946690652519109
+      F117 Bomb_32: 98586933593056057
+      F117 Bomb_33: 3799983204985209041
+      F117 Bomb_34: -4676137918288439102
+      F117 Bomb_35: -9150299513805197588
+      F117 Bomb_36: -7251531596749194835
+      F117 Bomb_37: 5251842659626415564
+      F117 Bomb_38: -8191651776259592820
+      F117 Bomb_39: -5912987738332264903
+      F117 Bomb_4: -2724725497400248115
+      F117 Bomb_5: 7905759381546753881
+      F117 Bomb_6: -2153237812155607098
+      F117 Bomb_7: 8650910396198164406
+      F117 Bomb_8: -8060566846309053657
+      F117 Bomb_9: 1692953154014444609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
