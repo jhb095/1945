@@ -35,7 +35,7 @@ public class ObjectPool : Singleton<ObjectPool>
 
     public GameObject GetObject(string key)
     {
-        if(poolDict.ContainsKey(key))
+        if (poolDict.ContainsKey(key))
         {
             foreach(GameObject obj in poolDict[key])
             {

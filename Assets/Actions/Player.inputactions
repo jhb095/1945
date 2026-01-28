@@ -32,6 +32,24 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "Lazer",
+                    "type": "Button",
+                    "id": "99e67e2e-0b4f-41fd-b34a-5fe9e105493e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "SlowTime",
+                    "type": "Button",
+                    "id": "bd258864-d14c-4a6b-969d-708dcbaa769f",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -92,6 +110,17 @@
                 },
                 {
                     "name": "",
+                    "id": "71ee5076-9237-4530-90f3-512d24798ee5",
+                    "path": "<Joystick>/stick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";PC",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "76b0dd5d-f303-455d-bd9b-4c75d367b327",
                     "path": "<Keyboard>/space",
                     "interactions": "",
@@ -111,6 +140,28 @@
                     "action": "Boom",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "145582b8-0d83-4d48-a0de-7b09ff847c2e",
+                    "path": "<Keyboard>/leftShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";PC",
+                    "action": "Lazer",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "eb88d906-1613-40a2-8622-4c4dc1fb8cff",
+                    "path": "<Keyboard>/tab",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";PC",
+                    "action": "SlowTime",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         }
@@ -122,6 +173,11 @@
             "devices": [
                 {
                     "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<Joystick>",
                     "isOptional": false,
                     "isOR": false
                 }

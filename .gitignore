@@ -74,5 +74,9 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# 1945 image
+# added asset
 /[Aa]ssets/[Ii]mages
+/[Aa]ssets/Joystick Pack
+/[Aa]ssets/[Ff]ont/*.ttf
+/[Aa]ssets/[Ff]ont/*.otf
+/[Aa]ssets/[Ss]tage

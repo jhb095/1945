@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 public class PlayerBullet : MonoBehaviour
 {
@@ -17,15 +18,27 @@ public class PlayerBullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("Enemy"))
+        if(collision.CompareTag("Enemy") || collision.CompareTag("Boss"))
         {
             // 이펙트
             GameObject effect = ObjectPool.Instance.GetObject("BulletEffect");
-            effect.transform.SetParent(collision.gameObject.transform);
+            effect.transform.SetParent(collision.transform);
             effect.transform.position = collision.ClosestPoint(transform.position);
             effect.SetActive(true);
 
-            collision.GetComponent<Monster>().HP -= damage;
+            if (collision.CompareTag("Enemy"))
+            {
+                Action detachHandler = null;
+                detachHandler = () =>
+                {
+                    effect.transform.SetParent(null);
+                    collision.GetComponent<Monster>().OnDie -= detachHandler;
+                };
+
+                collision.GetComponent<Monster>().OnDie += detachHandler;
+
+                collision.GetComponent<Monster>().HP -= damage;
+            }
 
             // 미사일 비활성화
             gameObject.SetActive(false);

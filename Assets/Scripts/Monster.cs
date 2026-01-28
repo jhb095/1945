@@ -1,14 +1,22 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 public class Monster : MonoBehaviour
 {
     public float speed = 1f;
     public float delay = 1f;
 
+    public event Action OnDie;
+
     [SerializeField] private int hp;
+    private int maxHP;
     [SerializeField] private GameObject item;
 
     private string bulletName;
+    private float monsterHalfWidth;
+
+    public int MaxHP => maxHP;
+    public float MonsterHalfWidth => monsterHalfWidth;
 
     public int HP
     {
@@ -16,11 +24,7 @@ public class Monster : MonoBehaviour
         set
         {
             if (value <= 0)
-            {
-                gameObject.SetActive(false);
-
-                DropItem();
-            }
+                Die();
 
             hp = value;
         }
@@ -36,6 +40,11 @@ public class Monster : MonoBehaviour
             bulletName = $"MonsterBullet{lastChar}";
         else
             bulletName = "MonsterBullet";
+
+        SpriteRenderer sr = GetComponent<SpriteRenderer>();
+        monsterHalfWidth = sr.bounds.size.x / 2f;
+
+        maxHP = hp;
     }
 
     private void Update()
@@ -72,8 +81,19 @@ public class Monster : MonoBehaviour
     private void DropItem()
     {
         // 아이템 생성
-        Instantiate(item, transform);
+        Instantiate(item, transform.position, Quaternion.identity);
+    }
 
-        item.SetActive(true);
+    private void Die()
+    {
+        // 이벤트 있으면 실행
+        OnDie?.Invoke();
+
+        // 사망 사운드
+        SoundManager.Instance.PlayDieSound();
+
+        gameObject.SetActive(false);
+
+        DropItem();
     }
 }
